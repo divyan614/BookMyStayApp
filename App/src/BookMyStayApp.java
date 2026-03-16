@@ -1,5 +1,9 @@
 public class BookMyStayApp {
     public static void main(String[] args) {
-        System.out.println("Book My Stay App Running");
+        System.out.println("==================================");
+        System.out.println(" Welcome to Book My Stay App ");
+        System.out.println(" Version : 1.0 ");
+        System.out.println(" System initialized successfully ");
+        System.out.println("==================================");
     }
 }
